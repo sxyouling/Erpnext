@@ -26,6 +26,7 @@
     "email": "marcus@abc.com",
     "first_name": "marcus@abc.com",
     "new_password": "password",
+    "send_welcome_email": 0,
     "roles": [{"doctype": "Has Role", "role": "Technician"}]
   },
   {
@@ -33,6 +34,7 @@
     "email": "thalia@abc.com",
     "first_name": "thalia@abc.com",
     "new_password": "password",
+    "send_welcome_email": 0,
     "roles": [{"doctype": "Has Role", "role": "Technician"}]
   },
   {
@@ -40,6 +42,7 @@
     "email": "mathias@abc.com",
     "first_name": "mathias@abc.com",
     "new_password": "password",
+    "send_welcome_email": 0,
     "roles": [{"doctype": "Has Role", "role": "Technician"}]
   },
   {
